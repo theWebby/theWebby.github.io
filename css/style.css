@@ -8,13 +8,24 @@
 /*-- tags --*/
 
     header{
+        width: 90%;
         height: 70px;
-        background-color: aquamarine;
+        background-color: #446CB3;
+        border-radius: 0px 0px 25px 25px 
     }
 
 
 /*-- ids --*/
 
+#wrapper{
+    width: 90%;
+    max-width: 1200px;
+    min-width: 960px;
+}
 
 
 /*-- classes --*/
+
+    .center{
+        margin: auto;
+    }
